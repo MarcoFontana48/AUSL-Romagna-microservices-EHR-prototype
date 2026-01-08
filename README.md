@@ -6,7 +6,7 @@
 
 This prototype for the AUSL della Romagna EHR system was developed to validate the design decisions made during the transition to an event-driven microservices architecture.
 
-For a more in-depth analysis, please refer to the project [report (in Italian)]([https://drive.google.com/drive/folders/1AiIUEFZuH6VNoDKyZ7C8iBzjcfA59nc8?usp=sharing](https://amslaurea.unibo.it/id/eprint/36177/)).
+For a more in-depth analysis, please refer to the project [report (in Italian)](https://amslaurea.unibo.it/id/eprint/36177/).
 
 # How to run the project
 how to build and run the entire project (it also builds all images before running):
